@@ -1,2 +1,4 @@
 .vscode
 resources/train_logs
+resources/saved_models
+resources/mnist.csv
